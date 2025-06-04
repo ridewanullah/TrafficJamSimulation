@@ -1,0 +1,6 @@
+setup.py
+mlagents_trainer_plugin.egg-info/PKG-INFO
+mlagents_trainer_plugin.egg-info/SOURCES.txt
+mlagents_trainer_plugin.egg-info/dependency_links.txt
+mlagents_trainer_plugin.egg-info/entry_points.txt
+mlagents_trainer_plugin.egg-info/top_level.txt

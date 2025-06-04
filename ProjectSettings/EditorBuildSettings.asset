@@ -1,0 +1,50 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/MainMenu.unity
+    guid: a67ed3292ddd25746a92322420ed5799
+  - enabled: 1
+    path: Assets/Scenes/Pengaturan.unity
+    guid: 5e87afd70cce0c94eb7b5a04e7439443
+  - enabled: 1
+    path: Assets/Scenes/SebelumPilihan.unity
+    guid: 104f411c29d1afe48a032a222f059451
+  - enabled: 1
+    path: Assets/Scenes/Pembelajaran1.unity
+    guid: 6a578d186deff9b4089a88e037767a96
+  - enabled: 1
+    path: Assets/Scenes/Pembelajaran2.unity
+    guid: 3a079158122302142a5e89ac5ca35d74
+  - enabled: 1
+    path: Assets/Scenes/Pembelajaran3.unity
+    guid: 446ec563bf75c40499d88c9f67797d03
+  - enabled: 1
+    path: Assets/Scenes/Pilihan.unity
+    guid: b87332d7c6cd3e644989cb2cc4ecc9ef
+  - enabled: 1
+    path: Assets/Scenes/Jalan1.2.unity
+    guid: d0cb4bfe7a655244198ec3ecba6a436c
+  - enabled: 0
+    path: Assets/Scenes/Jalan1.1.unity
+    guid: ad6e3e4447576274992ee1d0745ea7b7
+  - enabled: 0
+    path: Assets/Scenes/Jalan1.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 1
+    path: Assets/Scenes/Jalan2.unity
+    guid: 8ed0eab3420a6e944bf1b53ca8bdf205
+  - enabled: 1
+    path: Assets/Scenes/Jalan3.unity
+    guid: c37bb720d2fac604e8dac99b64486015
+  - enabled: 1
+    path: Assets/Scenes/Tentang.unity
+    guid: 3e115c88ff0446943930b43c10d30607
+  - enabled: 1
+    path: Assets/Scenes/UI KESIMPULAN/Kesimpulan.unity
+    guid: f9fca9c92c398344c9fdee6f6d000496
+  m_configObjects: {}

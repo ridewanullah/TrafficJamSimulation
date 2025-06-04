@@ -1,0 +1,29 @@
+{
+    "DQN Traffic Agent 3": {
+        "checkpoints": [
+            {
+                "steps": 1360,
+                "file_path": "results\\DQNTrafficAgent3\\DQN Traffic Agent 3\\DQN Traffic Agent 3-1360.onnx",
+                "reward": null,
+                "creation_time": 1748841588.2990801,
+                "auxillary_file_paths": [
+                    "results\\DQNTrafficAgent3\\DQN Traffic Agent 3\\DQN Traffic Agent 3-1360.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 1360,
+            "file_path": "results\\DQNTrafficAgent3\\DQN Traffic Agent 3.onnx",
+            "reward": null,
+            "creation_time": 1748841588.2990801,
+            "auxillary_file_paths": [
+                "results\\DQNTrafficAgent3\\DQN Traffic Agent 3\\DQN Traffic Agent 3-1360.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "0.30.0",
+        "torch_version": "2.7.0+cpu"
+    }
+}
