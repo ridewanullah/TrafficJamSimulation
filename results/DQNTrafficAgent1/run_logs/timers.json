@@ -1,0 +1,47 @@
+{
+    "name": "root",
+    "metadata": {
+        "timer_format_version": "0.1.0",
+        "start_time_seconds": "1748360839",
+        "python_version": "3.9.10 (tags/v3.9.10:f2f3f53, Jan 17 2022, 15:14:21) [MSC v.1929 64 bit (AMD64)]",
+        "command_line_arguments": "C:\\Users\\ridew\\AppData\\Local\\Programs\\Python\\Python39\\Scripts\\mlagents-learn D:\\Development\\Game Project\\Traffic Jam Simulation beta 0.1b\\config\\dqn\\DQN_Traffic_Agent1.yaml --run-id=DQNTrafficAgent1 --force",
+        "mlagents_version": "0.30.0",
+        "mlagents_envs_version": "0.30.0",
+        "communication_protocol_version": "1.5.0",
+        "pytorch_version": "2.7.0+cpu",
+        "numpy_version": "1.21.2",
+        "end_time_seconds": "1748360871"
+    },
+    "total": 31.800933999999998,
+    "count": 1,
+    "self": 0.010629200000000338,
+    "children": {
+        "run_training.setup": {
+            "total": 0.32308360000000036,
+            "count": 1,
+            "self": 0.32308360000000036
+        },
+        "TrainerController.start_learning": {
+            "total": 31.467221199999997,
+            "count": 1,
+            "self": 0.0006196999999943387,
+            "children": {
+                "TrainerController._reset_env": {
+                    "total": 31.466585700000003,
+                    "count": 1,
+                    "self": 31.466585700000003
+                },
+                "trainer_threads": {
+                    "total": 1.5000000033182914e-06,
+                    "count": 1,
+                    "self": 1.5000000033182914e-06
+                },
+                "TrainerController._save_models": {
+                    "total": 1.4299999996580937e-05,
+                    "count": 1,
+                    "self": 1.4299999996580937e-05
+                }
+            }
+        }
+    }
+}

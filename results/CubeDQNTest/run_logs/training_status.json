@@ -1,0 +1,65 @@
+{
+    "CubeDQN": {
+        "checkpoints": [
+            {
+                "steps": 0,
+                "file_path": "results\\CubeDQNTest\\CubeDQN\\CubeDQN-0.onnx",
+                "reward": null,
+                "creation_time": 1745768654.1482565,
+                "auxillary_file_paths": [
+                    "results\\CubeDQNTest\\CubeDQN\\CubeDQN-0.pt"
+                ]
+            },
+            {
+                "steps": 0,
+                "file_path": "results\\CubeDQNTest\\CubeDQN\\CubeDQN-0.onnx",
+                "reward": null,
+                "creation_time": 1745769155.5095603,
+                "auxillary_file_paths": [
+                    "results\\CubeDQNTest\\CubeDQN\\CubeDQN-0.pt"
+                ]
+            },
+            {
+                "steps": 0,
+                "file_path": "results\\CubeDQNTest\\CubeDQN\\CubeDQN-0.onnx",
+                "reward": null,
+                "creation_time": 1745769487.852869,
+                "auxillary_file_paths": [
+                    "results\\CubeDQNTest\\CubeDQN\\CubeDQN-0.pt"
+                ]
+            },
+            {
+                "steps": 22156,
+                "file_path": "results\\CubeDQNTest\\CubeDQN\\CubeDQN-22156.onnx",
+                "reward": null,
+                "creation_time": 1745771687.1059372,
+                "auxillary_file_paths": [
+                    "results\\CubeDQNTest\\CubeDQN\\CubeDQN-22156.pt"
+                ]
+            },
+            {
+                "steps": 27622,
+                "file_path": "results\\CubeDQNTest\\CubeDQN\\CubeDQN-27622.onnx",
+                "reward": null,
+                "creation_time": 1745941376.8832178,
+                "auxillary_file_paths": [
+                    "results\\CubeDQNTest\\CubeDQN\\CubeDQN-27622.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 27622,
+            "file_path": "results\\CubeDQNTest\\CubeDQN.onnx",
+            "reward": null,
+            "creation_time": 1745941376.8832178,
+            "auxillary_file_paths": [
+                "results\\CubeDQNTest\\CubeDQN\\CubeDQN-27622.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "0.30.0",
+        "torch_version": "2.7.0+cpu"
+    }
+}
