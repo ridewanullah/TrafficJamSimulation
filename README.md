@@ -32,3 +32,6 @@ The architecture is built with Deep Q-Network using with 2 hidden layer 156 neur
 # Reward Policy
 We design our reward policy based on the input parameter that is normalized based on these weight: <br>
 Throughput = 0.5, Wait Time 0.2, Density 0.3. <br>
+
+# Result
+The result of the training and experiment can be seen on the result directory and saved as .csv file.
