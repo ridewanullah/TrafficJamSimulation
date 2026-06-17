@@ -1,3 +1,8 @@
+# Prequistion
+Unity 2023 beta <br>
+Unity ML-Agents 0.30 <br>
+Tensorflow <br>
+
 # About This Project
 This is a model of an AI traffic control in a game traffic simulation.
 The AI is integrated within the intersection traffic light control.<br>
